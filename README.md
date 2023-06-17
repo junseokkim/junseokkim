@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#512BD4&height=300&section=header&text=DeveloperBEXr&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=#512BD4&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://bex8960.tistory.com/"/>
 
 ## 👊Skills
