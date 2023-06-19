@@ -2,7 +2,7 @@
 
 
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://bex8960.tistory.com/"/>
-
+<img src="https://img.shields.io/badge/Velog-
 ## 👊Skills
 ### Platforms & Languages
 
@@ -13,7 +13,8 @@
 ### Tools
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
-## My S
+## My Stat
+
 <!--
 **junseokkim/junseokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
