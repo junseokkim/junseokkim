@@ -17,6 +17,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseokkim&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseokkim&layout=compact&theme=tokyonight)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjs8960)](https://solved.ac/kjs8960/)
+
 
 <!--
 **junseokkim/junseokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
