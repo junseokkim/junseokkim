@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bex's&nbsp;House&fontSize=90" />
 
-
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://bex8960.tistory.com/"/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kjs8960"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://bex8960.tistory.com/"/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@kjs8960"/>
 
 ## 👊Skills
 ### Platforms & Languages
@@ -20,6 +20,8 @@
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjs8960)](https://solved.ac/kjs8960/)
 
+
+</div>
 
 <!--
 **junseokkim/junseokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
