@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bex's&nbsp;House&fontSize=90" />
 
-<a href="https://www.instagram.com/junseokke/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white/> 
-<a href="https://velog.io/@kjs8960" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white/> 
-<a href="https://bex8960.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white/>
+<a href="https://www.instagram.com/junseokke/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white/> </a>
+<a href="https://velog.io/@kjs8960" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white/> </a>
+<a href="https://bex8960.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white/> </a>
 
 ## 👊Skills
 ### Platforms & Languages
